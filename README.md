@@ -223,7 +223,7 @@ GitHub:
 https://github.com/AchyutaBiswal
 
 LinkedIn:
-https://www.linkedin.com/in/achyutabiswal/
+https://www.linkedin.com/in/achyuta-biswal
 
 ---
 
